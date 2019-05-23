@@ -23,6 +23,17 @@ const defaultData = {
     voteScore: -5,
     deleted: false,
     parentDeleted: false
+  },
+  // added default comment for second post
+  "z4tsadun805n8un48ve89": {
+    id: 'z4tsadun805n8un48ve89',
+    parentId: "6ni6ok3ym7mf1p33lnez",
+    timestamp: 1469479767190,
+    body: 'Never enough comments.',
+    author: 'thingthree',
+    voteScore: 2,
+    deleted: false,
+    parentDeleted: false
   }
 }
 
